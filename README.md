@@ -1,4 +1,4 @@
-# Highlighter - Highlights the text selected through mouse.
+# Highlighter - Highlights the selected text.
 
 __Author__   - Harshita Kasera  
 __License__   - MIT 
