@@ -27,10 +27,10 @@ For jQuery version you need to add jQuery and the jQuery highlighter plugin and 
      <script src="highlighter-jquery.js"></script>
      <link rel="stylesheet" href="highlighter.css" />
      
-     $("#target1").highlight({
+     $("#target1").highlighter({
         highlighted: "highlighter-y" // Specify the class name for the highlighted element
      });
-     $("#target2").highlight({
+     $("#target2").highlighter({
         highlighted: "highlighter-g" // Specify the class name for the highlighted element
      });
 
