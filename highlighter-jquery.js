@@ -1,5 +1,5 @@
 (function ($) {
-    $.fn.highlight = function (options) {
+    $.fn.highlighter = function (options) {
         var settings = $.extend({
             // Defaults.
             highlighted: "highlighter"
