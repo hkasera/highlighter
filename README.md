@@ -6,7 +6,7 @@ __License__   - MIT
 
 # Introduction
 
-Highlighter is a pure javascript plugin that lets you highlight the text selected through mouse. There is a jQuery version also with customizable options.
+Highlighter is a pure javascript plugin that lets you highlight the text selected through mouse. There is a jQuery version for the same with customizable options.
 
 # Demo
 [Click here](http://jsfiddle.net/hkasera/sdUUD/18/) to see a working demo of the javascript plugin.
