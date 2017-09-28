@@ -7,9 +7,7 @@ element.addEventListener("mousemove", function () {
     flag = 1;
 }, false);
 element.addEventListener("mouseup", function () {
-    if (flag === 0) {
-        console.log("click");
-    } else if (flag === 1) {
+    if (flag === 1) {
         getSelText();
     }
 }, false);
